@@ -1,0 +1,9 @@
+-std=c++20
+-O2
+-Wall
+-Wextra
+-Wshadow
+-Wno-unknown-pragmas
+-Wno-unused-variable
+-Wno-unused-parameter
+-Wno-unneeded-internal-declaration

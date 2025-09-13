@@ -1,0 +1,47 @@
+---
+BasedOnStyle: LLVM
+AccessModifierOffset: -2
+Language: Cpp
+Standard: c++20
+ColumnLimit: 0
+BraceWrapping:
+  AfterCaseLabel:  true
+  AfterClass:      true
+  AfterControlStatement: Always
+  AfterEnum:       true
+  AfterExternBlock: true
+  AfterFunction:   true
+  AfterNamespace:  true
+  AfterObjCDeclaration: true
+  AfterStruct:     true
+  AfterUnion:      true
+  BeforeCatch:     true
+  BeforeElse:      true
+  BeforeLambdaBody: false
+  BeforeWhile:     true
+  IndentBraces:    true
+  SplitEmptyFunction: true
+  SplitEmptyRecord: true
+  SplitEmptyNamespace: true
+PointerAlignment: Right
+IndentWidth: 2
+MaxEmptyLinesToKeep: 1
+ObjCSpaceAfterProperty: true
+ObjCBlockIndentWidth: 2
+AllowShortFunctionsOnASingleLine: true
+AllowShortIfStatementsOnASingleLine: true
+AlignTrailingComments: true
+SpacesInSquareBrackets: false
+SpacesInParentheses : false
+AlignConsecutiveDeclarations: false
+AlignConsecutiveAssignments: false
+SpaceBeforeAssignmentOperators: true
+SpacesInContainerLiterals: true
+IndentWrappedFunctionNames: false
+KeepEmptyLinesAtTheStartOfBlocks: true
+BreakConstructorInitializersBeforeComma: true
+AllowAllParametersOfDeclarationOnNextLine: true
+SpaceAfterCStyleCast: true
+TabWidth: 2
+UseTab: Never
+...

@@ -1,0 +1,6 @@
+If:
+  PathMatch: ".*"
+  PathExclude:
+    - "^/mnt/c/Windows/.*"
+    - "^/mnt/c/Program Files/.*"
+    - "^/mnt/c/Users/.*"
